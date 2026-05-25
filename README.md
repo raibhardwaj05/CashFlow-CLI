@@ -199,13 +199,23 @@ Through this project I practiced:
 
 # Screenshots
 
-Add screenshots of:
+## Main Expense Table
 
-* CLI menu
-* expense tables
-* analytics plots
+![Main Expense Table](screenshots/Menu.png)
 
-inside this section later.
+---
+
+## Expense Filtering
+
+![Expense Filtering](screenshots/filter.png)
+
+---
+
+## Expense Analytics
+
+![Expense Analyse Filter](screenshots/analyse.png)
+
+![Expense Analytics Plot](screenshots/analysis_plot.png)
 
 ---
 
