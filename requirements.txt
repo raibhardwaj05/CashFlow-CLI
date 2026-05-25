@@ -1,0 +1,4 @@
+matplotlib==3.10.8
+seaborn==0.13.2
+prettytable==3.17.0
+questionary==2.1.1
