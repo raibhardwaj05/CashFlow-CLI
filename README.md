@@ -1,4 +1,4 @@
-# CLI Expense Tracker
+# CashFlow CLI - Expense Tracker
 
 A terminal-based Expense Tracker application built using Python.
 
